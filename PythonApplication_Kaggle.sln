@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication_Kaggle", "PythonApplication_Kaggle\PythonApplication_Kaggle.pyproj", "{83B4C6E3-B780-4FC1-81B3-E8FABF89E984}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "regression", "..\python-sklearn-regression-cookiecutter\regression.pyproj", "{5ADEDC60-2480-4C3D-A100-3831C7B437B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{83B4C6E3-B780-4FC1-81B3-E8FABF89E984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{83B4C6E3-B780-4FC1-81B3-E8FABF89E984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ADEDC60-2480-4C3D-A100-3831C7B437B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ADEDC60-2480-4C3D-A100-3831C7B437B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
